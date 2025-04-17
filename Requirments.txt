@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr 17 16:05:08 2025
+
+@author: 39366
+"""
+
+yfinance
+prophet
+plotly
+pandas
